@@ -1,0 +1,208 @@
+#logo {
+    height: 7em;
+    width: 15em;
+    position: absolute;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+h1{
+    font-size:larger;
+}
+
+#lista_menu1{
+
+    text-align: right; 
+    padding-inline-end: 15px;
+    padding-top: 50px;
+    margin-right: 10px;
+
+}
+
+#lista_menu1{
+
+    font-family: 'Roboto',Arial,Helvetica,sans-serif;
+    font-style: italic;
+    font-size: 13px;
+    line-height: 32px;
+    color: #00233b;
+    font-weight: 400;
+}
+
+#lista_menu2{
+
+    text-align:right; 
+    padding-inline-end: 15px;
+    font-style: sans-Serif;
+    font-weight: bold;
+    font-size: 20px;  
+    padding: 30px;  
+}
+#lista_menu2{
+
+    font-family: 'Roboto',Arial,Helvetica,sans-serif;
+    font-size: 17px;
+    line-height: 32px;
+    color: #00233b;
+    font-weight: 400px;
+}
+#ruta_programa{
+    font-family: 'Roboto',Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    line-height: 32px;
+    color: #00233b;
+    font-weight: 400;
+
+
+}
+#ruta_programa{
+    padding: 10px;
+    padding-left: 30px;
+}
+.img_ingenieria_software{
+    padding: 0.5rem;
+    align-items:right;
+    text-align:right;
+   }
+
+.boton_incribirse{
+    background-color:white;
+    border-radius: 35px;
+    padding: 18px 32px;
+    text-decoration: none;
+    color: black;
+    border: 2px solid chocolate;
+    min-width: 274px;
+    margin-bottom: 20px;
+}
+.boton_incribirse:hover{
+    font-family: Roboto;
+    background-color: chocolate;
+    border: 2px solid chocolate;
+    color:white ;
+}
+.formulario{
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    
+    }
+
+h3{
+    font-family: 'Roboto',Arial,Helvetica,sans-serif;
+    font-size: 48px;
+    line-height: 58px;
+    font-weight: 900;
+    color: #00233b;
+}
+p{
+    font-family: 'Roboto',Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    color: #00233b;
+    font-weight: 400;
+}
+
+.column{
+    width: 50%;
+    float:left;
+}
+.Presencial span{
+    font-size: 14px;
+    line-height: 25px;
+    color: #f60;
+    border: 1px solid #f60;
+    padding: 5px 41px;
+    border-radius: 18px;
+    background: #fff;
+    margin-bottom: 40px;
+}
+.Presencial{
+    text-align: center;
+    position: relative;
+}
+.titulaciones{
+    width: 26%;
+    float:left;   
+    display: flexbox;
+    padding: 46px;
+    background-color: #f8f7f5;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+.campo_laboral{
+    width: 26%;
+    float:left;   
+    display:flexbox;
+    padding: 46px;
+    justify-content: center;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    height: max-content;
+    justify-content: space-between;
+}
+
+.perfil{
+    width: 50%;
+    float:left;
+}
+.pie_pagina{
+    width: 50%;
+    float:left;
+    background-color: #00233b;
+    color: aliceblue;
+}
+.redes_sociales{
+  
+
+    height: 100%; 
+    color: white;
+    border-top: 1px solid #ccc;
+    padding: 20px 0 0;
+}
+.lista_redes_sociales {
+    display:-ms-flexbox;
+    padding: 10px;
+    margin-left: 33%;
+    margin-right: 40px;
+}
+.bloque_derecho{
+    width: 33.3%;
+    float:left;
+    background-color: #707070; 
+    height:200px;
+    
+}
+.icontec{
+    width: 33.3%;
+    float:left;
+    background-color: #707070;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15%;
+  
+}
+.icontec img{
+    width: 100%;
+}
+
+.lista_campo_laboral{
+    font-family: 'Roboto',Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 32px;
+    color: #00233b;
+    font-weight: 400;
+}
+
+.lista_experto{
+    font-family: 'Roboto',Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 32px;
+    color: #00233b;
+    font-weight: 400;
+}
+
